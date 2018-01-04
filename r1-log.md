@@ -12,3 +12,6 @@ Continued with the freecodecamp front-end stuff. Got through CSS fundamentals an
 
 ### R1D3
 Continued with the freecodecamp front-end stuff. Starting in on the JQuery Playground which will probably make more sense later on. Also learned about bootstrap and font awesome which are nice, free resources but makes me wonder whether all web design will look super-homogenous after a while and whether that's necessarily a bad thing. https://twitter.com/sirnixalot/status/948426863252131841
+
+### R1D4
+Finished up the tutorials and now moving on to building something with CodePen. Things are getting real now... https://twitter.com/sirnixalot/status/948778307096477699
