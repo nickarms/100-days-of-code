@@ -15,3 +15,6 @@ Continued with the freecodecamp front-end stuff. Starting in on the JQuery Playg
 
 ### R1D4
 Finished up the tutorials and now moving on to building something with CodePen. Things are getting real now... https://twitter.com/sirnixalot/status/948778307096477699
+
+### R1D5
+Started working on my tribute page in codepen. Lots of referencing back and forth and agonizing over boostrap 3 versus 4 - decided to go with 4. Slow going but (re)learning to reference docs to quickly find what I need. https://twitter.com/sirnixalot/status/949169542135074816
