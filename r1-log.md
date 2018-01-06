@@ -18,3 +18,6 @@ Finished up the tutorials and now moving on to building something with CodePen. 
 
 ### R1D5
 Started working on my tribute page in codepen. Lots of referencing back and forth and agonizing over boostrap 3 versus 4 - decided to go with 4. Slow going but (re)learning to reference docs to quickly find what I need. https://twitter.com/sirnixalot/status/949169542135074816
+
+### R1D6
+Finished up the tribute page to King Bhumibol - https://codepen.io/nickarms/pen/aEyQwJ. And yes I tweeted about it - https://twitter.com/sirnixalot/status/949525498828242944
