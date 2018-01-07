@@ -21,3 +21,6 @@ Started working on my tribute page in codepen. Lots of referencing back and fort
 
 ### R1D6
 Finished up the tribute page to King Bhumibol - https://codepen.io/nickarms/pen/aEyQwJ. And yes I tweeted about it - https://twitter.com/sirnixalot/status/949525498828242944
+
+### R1D7
+Officially one week in - woo hoo! Starting in on the portfolio page now. Need to stay focused on delivering something versus delivering something perfect; perfect is the enemy of good.
