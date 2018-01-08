@@ -24,3 +24,6 @@ Finished up the tribute page to King Bhumibol - https://codepen.io/nickarms/pen/
 
 ### R1D7
 Officially one week in - woo hoo! Starting in on the portfolio page now. Need to stay focused on delivering something versus delivering something perfect; perfect is the enemy of good - https://twitter.com/sirnixalot/status/949899086731214848
+
+### R1D8
+Unproductive day today in terms of actual delivery but learned an important lesson about BootStrap and semi-colons, namely DON'T USE THEM!!! Anyhow, tomorow is day one. https://twitter.com/sirnixalot/status/950231450489569281
