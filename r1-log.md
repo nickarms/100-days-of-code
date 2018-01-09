@@ -27,3 +27,6 @@ Officially one week in - woo hoo! Starting in on the portfolio page now. Need to
 
 ### R1D8
 Unproductive day today in terms of actual delivery but learned an important lesson about BootStrap and semi-colons, namely DON'T USE THEM!!! Anyhow, tomorow is day one. https://twitter.com/sirnixalot/status/950231450489569281
+
+### R1D9
+Still slow-going but learning about BootStrap in the process, although not sure how much of it is really sticking since I'm covering a LOT of material. Time will tell... https://twitter.com/sirnixalot/status/950637488850190336
