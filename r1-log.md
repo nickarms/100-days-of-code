@@ -30,3 +30,6 @@ Unproductive day today in terms of actual delivery but learned an important less
 
 ### R1D9
 Still slow-going but learning about BootStrap in the process, although not sure how much of it is really sticking since I'm covering a LOT of material. Time will tell... https://twitter.com/sirnixalot/status/950637488850190336
+
+### R1D10
+Didn't code yesterday but went ~1 hour the previous day so I feel okay about it. Also, the fact that I bothered to take my laptop to Maui to code while I'm here speaks (I think) to my commitment. https://twitter.com/sirnixalot/status/951714140401254400
