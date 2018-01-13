@@ -33,3 +33,6 @@ Still slow-going but learning about BootStrap in the process, although not sure 
 
 ### R1D10
 Didn't code yesterday but went ~1 hour the previous day so I feel okay about it. Also, the fact that I bothered to take my laptop to Maui to code while I'm here speaks (I think) to my commitment. https://twitter.com/sirnixalot/status/951714140401254400
+
+### R1D10
+2nd day of coding in paradise. Going well all things considered. https://twitter.com/sirnixalot/status/952093333995732994
