@@ -36,3 +36,6 @@ Didn't code yesterday but went ~1 hour the previous day so I feel okay about it.
 
 ### R1D10
 2nd day of coding in paradise. Going well all things considered. https://twitter.com/sirnixalot/status/952093333995732994
+
+### R1D11
+3rd day of coding in paradise and did it in bed because it's annoying Angie. Finished the portolio page exercise and now moving on to JavaScript which should be harder but less tweezy which I'm looking forward to. Also, I need to make sure to correct my twitter entries starting tomorrow since I'm a day behind. https://twitter.com/sirnixalot/status/952486035539152896
