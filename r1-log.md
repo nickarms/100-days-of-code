@@ -34,8 +34,11 @@ Still slow-going but learning about BootStrap in the process, although not sure 
 ### R1D10
 Didn't code yesterday but went ~1 hour the previous day so I feel okay about it. Also, the fact that I bothered to take my laptop to Maui to code while I'm here speaks (I think) to my commitment. https://twitter.com/sirnixalot/status/951714140401254400
 
-### R1D10
+### R1D11
 2nd day of coding in paradise. Going well all things considered. https://twitter.com/sirnixalot/status/952093333995732994
 
-### R1D11
+### R1D12
 3rd day of coding in paradise and did it in bed because it's annoying Angie. Finished the portolio page exercise and now moving on to JavaScript which should be harder but less tweezy which I'm looking forward to. Also, I need to make sure to correct my twitter entries starting tomorrow since I'm a day behind. https://twitter.com/sirnixalot/status/952486035539152896
+
+### R1D13
+4th day of coding in paradise and still happy to be back on JS working through arrays and variables and wondering how it's going to be this time around. Hit an absolute WALL today so probably coded ~5 minutes or so shy of an hour but I'm okay with it since it was a long day of hiking up to Haleakela. https://twitter.com/sirnixalot/status/952826392483315712
