@@ -42,3 +42,6 @@ Didn't code yesterday but went ~1 hour the previous day so I feel okay about it.
 
 ### R1D13
 4th day of coding in paradise and still happy to be back on JS working through arrays and variables and wondering how it's going to be this time around. Hit an absolute WALL today so probably coded ~5 minutes or so shy of an hour but I'm okay with it since it was a long day of hiking up to Haleakela. https://twitter.com/sirnixalot/status/952826392483315712
+
+### R1D14
+Short day today but I'm exhausted from crossfit ~6 hours of driving and have to get up at 5:45 for diving - some vacation! https://twitter.com/sirnixalot/status/953169394347122688
