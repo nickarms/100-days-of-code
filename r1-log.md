@@ -45,3 +45,6 @@ Didn't code yesterday but went ~1 hour the previous day so I feel okay about it.
 
 ### R1D14
 Short day today but I'm exhausted from crossfit ~6 hours of driving and have to get up at 5:45 for diving - some vacation! https://twitter.com/sirnixalot/status/953169394347122688
+
+### R1D15
+Once again shy of an hour but since I literally coded until I was falling asleep at the keyboard I feel okay about it. Still working my way through JavaScript and excited/nervous about the exercises I know are coming. https://twitter.com/sirnixalot/status/953557072649400321
