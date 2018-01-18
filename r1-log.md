@@ -48,3 +48,6 @@ Short day today but I'm exhausted from crossfit ~6 hours of driving and have to 
 
 ### R1D15
 Once again shy of an hour but since I literally coded until I was falling asleep at the keyboard I feel okay about it. Still working my way through JavaScript and excited/nervous about the exercises I know are coming. https://twitter.com/sirnixalot/status/953557072649400321
+
+### R1D16
+Miracle I did some coding today considering how late it is. Guess it says something about my commitment to this thing - right? Now getting into JavaScript objects; just keeps getting juicier. https://twitter.com/sirnixalot/status/953934258673864704
