@@ -51,3 +51,6 @@ Once again shy of an hour but since I literally coded until I was falling asleep
 
 ### R1D16
 Miracle I did some coding today considering how late it is. Guess it says something about my commitment to this thing - right? Now getting into JavaScript objects; just keeps getting juicier. https://twitter.com/sirnixalot/status/953934258673864704
+
+### R1D17
+The tweet says it all. Hit a wall trying to add an object to an array. Am I supposed to do it right inline or with a function call or what? I was chugging right along and then WHAM! I know this is the first of many walls hit and pushing through will be an important thing for me so I persevere. https://twitter.com/sirnixalot/status/954255986314829824
