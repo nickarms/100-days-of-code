@@ -56,4 +56,4 @@ Miracle I did some coding today considering how late it is. Guess it says someth
 The tweet says it all. Hit a wall trying to add an object to an array. Am I supposed to do it right inline or with a function call or what? I was chugging right along and then WHAM! I know this is the first of many walls hit and pushing through will be an important thing for me so I persevere. https://twitter.com/sirnixalot/status/954255986314829824
 
 ### R1D18
-JS loops and complex arrays. Also, yesterday's wall turned out to be an error in the example/instructional code which really should be fixed but served as an opportunity to engage the community who had run into the same issue with the exercise. Good stuff. https://twitter.com/sirnixalot/status/954641498351398912
+JS loops and complex arrays. Also, yesterday's wall turned out to be an error in the example/instructional code which really should be fixed but served as an opportunity to engage the community who had run into the same issue with the exercise. Also, got lots of supportive responses to my tweet. Good stuff! https://twitter.com/sirnixalot/status/954641498351398912
