@@ -57,3 +57,6 @@ The tweet says it all. Hit a wall trying to add an object to an array. Am I supp
 
 ### R1D18
 JS loops and complex arrays. Also, yesterday's wall turned out to be an error in the example/instructional code which really should be fixed but served as an opportunity to engage the community who had run into the same issue with the exercise. Also, got lots of supportive responses to my tweet. Good stuff! https://twitter.com/sirnixalot/status/954641498351398912
+
+### R1D19
+Argh slow going today and making things unecessarily complicated for myself. I am learning, though, and refusing to give up so it's exercising good muscles. Need to get better at enforcing boundaries for how late I'm staying up, though - this is not sustainable. https://twitter.com/sirnixalot/status/955020793116676096
