@@ -60,3 +60,6 @@ JS loops and complex arrays. Also, yesterday's wall turned out to be an error in
 
 ### R1D19
 Argh slow going today and making things unecessarily complicated for myself. I am learning, though, and refusing to give up so it's exercising good muscles. Need to get better at enforcing boundaries for how late I'm staying up, though - this is not sustainable. https://twitter.com/sirnixalot/status/955020793116676096
+
+### R1D20
+Got through the object array fiasco from yesterday with fresh eyes today but took me nearly the entire hour and the code I wrote was laughable, though it did get the job done so it's in the rear view mirror now. Oh, and has it really been 20 days already? Holy sh##t! https://twitter.com/sirnixalot/status/955313720128815104
