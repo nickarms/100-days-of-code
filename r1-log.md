@@ -63,3 +63,6 @@ Argh slow going today and making things unecessarily complicated for myself. I a
 
 ### R1D20
 Got through the object array fiasco from yesterday with fresh eyes today but took me nearly the entire hour and the code I wrote was laughable, though it did get the job done so it's in the rear view mirror now. Oh, and has it really been 20 days already? Holy sh##t! https://twitter.com/sirnixalot/status/955313720128815104
+
+### R1D21
+Object-oriented programming - yay! Comparing strings and arrays with weird, esoteric functions - boo! https://twitter.com/sirnixalot/status/955688608622551040
