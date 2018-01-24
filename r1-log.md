@@ -66,3 +66,7 @@ Got through the object array fiasco from yesterday with fresh eyes today but too
 
 ### R1D21
 Object-oriented programming - yay! Comparing strings and arrays with weird, esoteric functions - boo! https://twitter.com/sirnixalot/status/955688608622551040
+
+### R1D22
+Tackling some new problem solving challenges with strings and arrays and math stuff - fun! https://twitter.com/sirnixalot/status/956044412685078528
+
