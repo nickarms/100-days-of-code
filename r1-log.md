@@ -70,3 +70,5 @@ Object-oriented programming - yay! Comparing strings and arrays with weird, esot
 ### R1D22
 Tackling some new problem solving challenges with strings and arrays and math stuff - fun! https://twitter.com/sirnixalot/status/956044412685078528
 
+### R1D23
+Finshed the factorial problem and now am hacking around with regular expressions which are tricky. Maybe this time I'll finally get them. https://twitter.com/sirnixalot/status/956398296766889984
