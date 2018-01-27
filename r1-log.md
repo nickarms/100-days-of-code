@@ -72,3 +72,6 @@ Tackling some new problem solving challenges with strings and arrays and math st
 
 ### R1D23
 Finshed the factorial problem and now am hacking around with regular expressions which are tricky. Maybe this time I'll finally get them. https://twitter.com/sirnixalot/status/956398296766889984
+
+### R1D24
+Didn't code yesterday. Did today (more regexp). Asked for feedback from the community on whether I should reset and am okay either way. https://twitter.com/sirnixalot/status/957163033872146432
