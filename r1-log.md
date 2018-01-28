@@ -75,3 +75,6 @@ Finshed the factorial problem and now am hacking around with regular expressions
 
 ### R1D24
 Didn't code yesterday. Did today (more regexp). Asked for feedback from the community on whether I should reset and am okay either way. https://twitter.com/sirnixalot/status/957163033872146432
+
+### R1D25
+Coding after a couple hours of bouldering and I'm WIPED! Still chunking away through reversing a string and it's amazing how many false starts I've had. Hope this stuff gets easier (or at least different). https://twitter.com/sirnixalot/status/957534393110691841
