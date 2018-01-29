@@ -78,3 +78,6 @@ Didn't code yesterday. Did today (more regexp). Asked for feedback from the comm
 
 ### R1D25
 Coding after a couple hours of bouldering and I'm WIPED! Still chunking away through reversing a string and it's amazing how many false starts I've had. Hope this stuff gets easier (or at least different). https://twitter.com/sirnixalot/status/957534393110691841
+
+### R1D26
+Feeling a tad smarter after today - finished up the string reversal problem (why was this so hard for me?) and started and finished another one in the same day. Now stuck on a third one that's a variation on a theme. Feels like these should be getting easier and they're maybe a little easier (emphasis on little) but I still feel like something is eluding me. https://twitter.com/sirnixalot/status/957852693489377280
