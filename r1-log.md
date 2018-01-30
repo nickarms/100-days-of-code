@@ -81,3 +81,6 @@ Coding after a couple hours of bouldering and I'm WIPED! Still chunking away thr
 
 ### R1D26
 Feeling a tad smarter after today - finished up the string reversal problem (why was this so hard for me?) and started and finished another one in the same day. Now stuck on a third one that's a variation on a theme. Feels like these should be getting easier and they're maybe a little easier (emphasis on little) but I still feel like something is eluding me. https://twitter.com/sirnixalot/status/957852693489377280
+
+### R1D27
+I think a regular expression is going to be the way to solve this capitalization problem. Either that or I'm trying to squeeze a round peg into a square hole. Once I see a nicely-crafted regular expression it's really hard to see any other solution, though. https://twitter.com/sirnixalot/status/958234677440999424
