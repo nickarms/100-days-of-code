@@ -84,3 +84,6 @@ Feeling a tad smarter after today - finished up the string reversal problem (why
 
 ### R1D27
 I think a regular expression is going to be the way to solve this capitalization problem. Either that or I'm trying to squeeze a round peg into a square hole. Once I see a nicely-crafted regular expression it's really hard to see any other solution, though. https://twitter.com/sirnixalot/status/958234677440999424
+
+### R1D28
+Coded for 30 minutes tonight but got through 2 problems (completed one, started and finished another) so I feel like my work is done for tonight. Didn't want to do it at all but glad I pushed myself.
