@@ -89,4 +89,4 @@ I think a regular expression is going to be the way to solve this capitalization
 Coded for 30 minutes tonight but got through 2 problems (completed one, started and finished another) so I feel like my work is done for tonight. Didn't want to do it at all but glad I pushed myself. https://twitter.com/sirnixalot/status/958601889263865856
 
 ### R1D29
-Coded for ~30 minutes again but it was a good 30 minutes. Tried things on 2 instances that felt like they should work - and they did! Very confidence-inspiring. Also, Day 29??? Holy shit!
+Coded for ~30 minutes again but it was a good 30 minutes. Tried things on 2 instances that felt like they should work - and they did! Very confidence-inspiring. Also, Day 29??? Holy shit! https://twitter.com/sirnixalot/status/958951736349147136
