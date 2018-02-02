@@ -90,3 +90,6 @@ Coded for 30 minutes tonight but got through 2 problems (completed one, started 
 
 ### R1D29
 Coded for ~30 minutes again but it was a good 30 minutes. Tried things on 2 instances that felt like they should work - and they did! Very confidence-inspiring. Also, Day 29??? Holy shit! https://twitter.com/sirnixalot/status/958951736349147136
+
+### R1D30
+Day 30 - woop woop! Multidimensional arrays - meh. https://twitter.com/sirnixalot/status/959325423170592769
