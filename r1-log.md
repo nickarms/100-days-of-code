@@ -93,3 +93,6 @@ Coded for ~30 minutes again but it was a good 30 minutes. Tried things on 2 inst
 
 ### R1D30
 Day 30 - woop woop! Multidimensional arrays - meh. https://twitter.com/sirnixalot/status/959325423170592769
+
+### R1D31
+The amount of time it takes me to figure out the math on how to offset some of the math on these arrays is not encouraging - really feel like I'm just guessing/trying/testing. Suppose this is part of the process but today felt hard. But hey, day 31 right? https://twitter.com/sirnixalot/status/959697552609198080
