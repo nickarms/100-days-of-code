@@ -96,3 +96,6 @@ Day 30 - woop woop! Multidimensional arrays - meh. https://twitter.com/sirnixalo
 
 ### R1D31
 The amount of time it takes me to figure out the math on how to offset some of the math on these arrays is not encouraging - really feel like I'm just guessing/trying/testing. Suppose this is part of the process but today felt hard. But hey, day 31 right? https://twitter.com/sirnixalot/status/959697552609198080
+
+### R1D32
+Functions are starting to behave strangely. Time to call it a night. https://twitter.com/sirnixalot/status/960073040200519680
