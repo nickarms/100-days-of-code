@@ -99,3 +99,6 @@ The amount of time it takes me to figure out the math on how to offset some of t
 
 ### R1D32
 Functions are starting to behave strangely. Time to call it a night. https://twitter.com/sirnixalot/status/960073040200519680
+
+### R1D33
+I was a mess last night clearly. Typos and poor reading comprehension were not doing me any favors. Tonight was much better but my fingers hurt from bouldering. https://twitter.com/sirnixalot/status/960409933345783808
