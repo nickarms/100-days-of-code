@@ -102,3 +102,6 @@ Functions are starting to behave strangely. Time to call it a night. https://twi
 
 ### R1D33
 I was a mess last night clearly. Typos and poor reading comprehension were not doing me any favors. Tonight was much better but my fingers hurt from bouldering. https://twitter.com/sirnixalot/status/960409933345783808
+
+### R1D34
+Fuck this shit tonight - https://twitter.com/sirnixalot/status/960790396560277504
