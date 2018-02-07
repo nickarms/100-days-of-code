@@ -105,3 +105,6 @@ I was a mess last night clearly. Typos and poor reading comprehension were not d
 
 ### R1D34
 Fuck this shit tonight - https://twitter.com/sirnixalot/status/960790396560277504
+
+### R1D35
+Turned to the forums finally and ended up using filter on Boolean to strip out all the falseys. Worked like a charm and was *much* more efficient than my code. Still don't understand why the !isNaN test wasn't working, though. https://twitter.com/sirnixalot/status/961110739732914177
