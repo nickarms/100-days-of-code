@@ -108,3 +108,6 @@ Fuck this shit tonight - https://twitter.com/sirnixalot/status/96079039656027750
 
 ### R1D35
 Turned to the forums finally and ended up using filter on Boolean to strip out all the falseys. Worked like a charm and was *much* more efficient than my code. Still don't understand why the !isNaN test wasn't working, though. https://twitter.com/sirnixalot/status/961110739732914177
+
+### R1D36
+Having a lot of 'fuck this' days lately. Today was another one of those. Ugh. https://twitter.com/sirnixalot/status/961505324426346496
