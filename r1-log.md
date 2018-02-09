@@ -111,3 +111,6 @@ Turned to the forums finally and ended up using filter on Boolean to strip out a
 
 ### R1D36
 Having a lot of 'fuck this' days lately. Today was another one of those. Ugh. https://twitter.com/sirnixalot/status/961505324426346496
+
+### R1D37
+Leveraged a previously unexplored function to save the day - Array.includes(). The code itself was crap but it got the job done and got me on to the next exercise which is what matters most to me at this point. https://twitter.com/sirnixalot/status/961853553508667395
