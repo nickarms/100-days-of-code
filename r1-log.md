@@ -114,3 +114,6 @@ Having a lot of 'fuck this' days lately. Today was another one of those. Ugh. ht
 
 ### R1D37
 Leveraged a previously unexplored function to save the day - Array.includes(). The code itself was crap but it got the job done and got me on to the next exercise which is what matters most to me at this point. https://twitter.com/sirnixalot/status/961853553508667395
+
+### R1D38
+Took a couple days off to go snowmobiling. Probably breaks the rules technically but I feel okay about it and definitely better than taking my laptop and putting up with shit for 2 days solid about it. https://twitter.com/sirnixalot/status/962912081631588352
