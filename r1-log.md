@@ -117,3 +117,6 @@ Leveraged a previously unexplored function to save the day - Array.includes(). T
 
 ### R1D38
 Took a couple days off to go snowmobiling. Probably breaks the rules technically but I feel okay about it and definitely better than taking my laptop and putting up with shit for 2 days solid about it. https://twitter.com/sirnixalot/status/962912081631588352
+
+### R1D39
+Caesar's cipher. Who knew shifting letters over by 13 could be so hard? https://twitter.com/sirnixalot/status/963314296930234369
