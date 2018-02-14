@@ -120,3 +120,6 @@ Took a couple days off to go snowmobiling. Probably breaks the rules technically
 
 ### R1D39
 Caesar's cipher. Who knew shifting letters over by 13 could be so hard? https://twitter.com/sirnixalot/status/963314296930234369
+
+### R1D40
+Still working on Caesar's cipher. Struggling. Doesn't seem like it should be this hard. https://twitter.com/sirnixalot/status/963669171585372161
