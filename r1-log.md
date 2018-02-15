@@ -123,3 +123,6 @@ Caesar's cipher. Who knew shifting letters over by 13 could be so hard? https://
 
 ### R1D40
 Still working on Caesar's cipher. Struggling. Doesn't seem like it should be this hard. https://twitter.com/sirnixalot/status/963669171585372161
+
+### R1D41
+So close to figuring out Caesar's cipher. Definitely making it harder than it is but I'm closing in on the solution and it's gonna feel goooood when I do. https://twitter.com/sirnixalot/status/964040175494905861
