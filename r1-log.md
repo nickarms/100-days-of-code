@@ -126,3 +126,6 @@ Still working on Caesar's cipher. Struggling. Doesn't seem like it should be thi
 
 ### R1D41
 So close to figuring out Caesar's cipher. Definitely making it harder than it is but I'm closing in on the solution and it's gonna feel goooood when I do. https://twitter.com/sirnixalot/status/964040175494905861
+
+### R1D42
+Finally finished Caesar's cipher which I made way harder than it needed to be. Learned how to use regex.test, though, so that was cool. Have a feeling I'll be using that one again in the future. https://twitter.com/sirnixalot/status/964397968177557505
