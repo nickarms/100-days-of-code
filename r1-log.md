@@ -129,3 +129,6 @@ So close to figuring out Caesar's cipher. Definitely making it harder than it is
 
 ### R1D42
 Finally finished Caesar's cipher which I made way harder than it needed to be. Learned how to use regex.test, though, so that was cool. Have a feeling I'll be using that one again in the future. https://twitter.com/sirnixalot/status/964397968177557505
+
+### R1D42
+Doing day 42 twice to match what's on twitter. Don't know which one is right and too tired to care right now. Started in on JQuery but too tired to make much sense of it. Will resume tomomorrow. Out. https://twitter.com/sirnixalot/status/964738079561891840
