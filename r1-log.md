@@ -132,3 +132,6 @@ Finally finished Caesar's cipher which I made way harder than it needed to be. L
 
 ### R1D42
 Doing day 42 twice to match what's on twitter. Don't know which one is right and too tired to care right now. Started in on JQuery but too tired to make much sense of it. Will resume tomomorrow. Out. https://twitter.com/sirnixalot/status/964738079561891840
+
+### R1D43
+Hacked/copied my way through the JQuery tutorials and now head-first into the deep end of the random quote generator which has very vague requirements but I'm guessing I need to pull quotes from some API somewhere using JQuery and spit them out on a page in a way that makes them look pretty. This is going to be a long haul... https://twitter.com/sirnixalot/status/965117152033366017
