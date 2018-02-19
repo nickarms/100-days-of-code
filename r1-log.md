@@ -135,3 +135,6 @@ Doing day 42 twice to match what's on twitter. Don't know which one is right and
 
 ### R1D43
 Hacked/copied my way through the JQuery tutorials and now head-first into the deep end of the random quote generator which has very vague requirements but I'm guessing I need to pull quotes from some API somewhere using JQuery and spit them out on a page in a way that makes them look pretty. This is going to be a long haul... https://twitter.com/sirnixalot/status/965117152033366017
+
+### R1D44
+Slow going. JSON syntax is strange. Also spent most of my time looking at cars. Need to do more actual coding tomorrow. https://twitter.com/sirnixalot/status/965525589552541696
