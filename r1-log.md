@@ -138,3 +138,6 @@ Hacked/copied my way through the JQuery tutorials and now head-first into the de
 
 ### R1D44
 Slow going. JSON syntax is strange. Also spent most of my time looking at cars. Need to do more actual coding tomorrow. https://twitter.com/sirnixalot/status/965525589552541696
+
+### R1D46
+No idea why twitter doesn't match GitHub today and too tired to care. Not having a great time with JSON, not sleeping enough, etc. https://twitter.com/sirnixalot/status/966579855088263168
