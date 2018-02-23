@@ -141,3 +141,6 @@ Slow going. JSON syntax is strange. Also spent most of my time looking at cars. 
 
 ### R1D46
 No idea why twitter doesn't match GitHub today and too tired to care. Not having a great time with JSON, not sleeping enough, etc. https://twitter.com/sirnixalot/status/966579855088263168
+
+### R1D47
+Now running into cross-site CORS somethingorother. Close to throwing in the towel but gonna give it one more day. Argh! https://twitter.com/sirnixalot/status/966934117974663168
