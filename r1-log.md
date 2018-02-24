@@ -144,3 +144,6 @@ No idea why twitter doesn't match GitHub today and too tired to care. Not having
 
 ### R1D47
 Now running into cross-site CORS somethingorother. Close to throwing in the towel but gonna give it one more day. Argh! https://twitter.com/sirnixalot/status/966934117974663168
+
+### R1D48
+Still with the JQuery. Still sucking. Ugh. https://twitter.com/sirnixalot/status/967331349773238273
