@@ -147,3 +147,6 @@ Now running into cross-site CORS somethingorother. Close to throwing in the towe
 
 ### R1D48
 Still with the JQuery. Still sucking. Ugh. https://twitter.com/sirnixalot/status/967331349773238273
+
+### R1D49
+Still JQuery. Still learning. Still hard. https://twitter.com/sirnixalot/status/967661535769198592
