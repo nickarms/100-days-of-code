@@ -154,3 +154,5 @@ Still JQuery. Still learning. Still hard. https://twitter.com/sirnixalot/status/
 ### R1D50
 Figured out the cross-site CORS stuff and that it wasn't my script - it was the server. Probably shouldn't have taken me a week to figure that out but whatever. Also embracing the 'marathon-ness' of this thing and accepting that I'm going to get as far as I get and that's that. I'm now successfully calling an API with AJAX and now have to dig deeper into JQUERY so that I really understand what the hell I'm doing rather than just copy/pasting my way to finishing this exercise. Also, I think it's worth mentioning that I'm now officially halfway through this thing on my birthday which feels appropriate. https://twitter.com/sirnixalot/status/968367686060269569
 
+### R1D51
+Can't overstate how good it feels to be making progress again, albeit on basic JQuery. If I'm going to do any actual work in this space I'm going to need a solid understanding of it so better buck up. https://twitter.com/sirnixalot/status/968754324280086528
