@@ -159,3 +159,7 @@ Can't overstate how good it feels to be making progress again, albeit on basic J
 
 ### R1D52
 Continuing with JQuery animation stuff. Really cool and feels good to be making forward progress and it's already making more sense how I'm gonna stich the API stuff to the clicky stuff so feeling encouraged! https://twitter.com/sirnixalot/status/969794912286736385
+
+### R1D53
+Did a few minutes of coding and then spaced out on bikes for a while. More JQuery stuff which was okay but I just wasn't feeling it tonight. https://twitter.com/sirnixalot/status/970214862528774144
+
