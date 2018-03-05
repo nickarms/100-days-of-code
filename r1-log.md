@@ -163,3 +163,5 @@ Continuing with JQuery animation stuff. Really cool and feels good to be making 
 ### R1D53
 Did a few minutes of coding and then spaced out on bikes for a while. More JQuery stuff which was okay but I just wasn't feeling it tonight. https://twitter.com/sirnixalot/status/970214862528774144
 
+### R1D54
+Finished JQuery getters and animations and starting in on JQuery setters tomorrow. Yeah! https://twitter.com/sirnixalot/status/970548369796907008
