@@ -165,3 +165,6 @@ Did a few minutes of coding and then spaced out on bikes for a while. More JQuer
 
 ### R1D54
 Finished JQuery getters and animations and starting in on JQuery setters tomorrow. Yeah! https://twitter.com/sirnixalot/status/970548369796907008
+
+### R1D55
+Tired AF and leg twitching. Falling asleep coding tonight. More fun with JQuery setters but couldn't continue another minute. https://twitter.com/sirnixalot/status/970919090201157632
