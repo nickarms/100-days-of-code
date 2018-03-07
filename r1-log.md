@@ -168,3 +168,6 @@ Finished JQuery getters and animations and starting in on JQuery setters tomorro
 
 ### R1D55
 Tired AF and leg twitching. Falling asleep coding tonight. More fun with JQuery setters but couldn't continue another minute. https://twitter.com/sirnixalot/status/970919090201157632
+
+### R1D56
+Adding and removing HTML elements with JQuery. Still waiting to get to the part where it talks about APIs but the syntax is making a ton ore sense now which is rad. https://twitter.com/sirnixalot/status/971267228992724992
