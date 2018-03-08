@@ -171,3 +171,6 @@ Tired AF and leg twitching. Falling asleep coding tonight. More fun with JQuery 
 
 ### R1D56
 Adding and removing HTML elements with JQuery. Still waiting to get to the part where it talks about APIs but the syntax is making a ton ore sense now which is rad. https://twitter.com/sirnixalot/status/971267228992724992
+
+### R1D57
+Falling asleep to JQuery add/remove classes. It's ok y stuff just a little tedious with the tweezing of pixels and look/feel. Handy stuff to know for sure tho. https://twitter.com/sirnixalot/status/971647411834707968
