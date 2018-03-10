@@ -174,3 +174,6 @@ Adding and removing HTML elements with JQuery. Still waiting to get to the part 
 
 ### R1D57
 Falling asleep to JQuery add/remove classes. It's ok y stuff just a little tedious with the tweezing of pixels and look/feel. Handy stuff to know for sure tho. https://twitter.com/sirnixalot/status/971647411834707968
+
+### R1D58
+Again falling asleep. Dreaming about a new laptop - would it be bad if I got one before the challenge was up? https://twitter.com/sirnixalot/status/972384832977231877
