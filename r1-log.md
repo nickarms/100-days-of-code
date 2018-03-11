@@ -177,3 +177,6 @@ Falling asleep to JQuery add/remove classes. It's ok y stuff just a little tedio
 
 ### R1D58
 Again falling asleep. Dreaming about a new laptop - would it be bad if I got one before the challenge was up? https://twitter.com/sirnixalot/status/972384832977231877
+
+### R159
+ZZZZZ. Bought my new computer today, though, and I'm psyched. Using my old Pro tonight and likely moving forward if for no other reason than the keyboard. I HATE the keyboard on the Yoga. https://twitter.com/sirnixalot/status/972741681282891776
