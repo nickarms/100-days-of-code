@@ -180,3 +180,6 @@ Again falling asleep. Dreaming about a new laptop - would it be bad if I got one
 
 ### R159
 ZZZZZ. Bought my new computer today, though, and I'm psyched. Using my old Pro tonight and likely moving forward if for no other reason than the keyboard. I HATE the keyboard on the Yoga. https://twitter.com/sirnixalot/status/972741681282891776
+
+### R1D60
+So sleepy. Finished up with the CSS hijacking and moved on to DOM traversal - cool stuff. Tomorrow begins AJAX! https://twitter.com/sirnixalot/status/973074102993920000
