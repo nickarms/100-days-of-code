@@ -183,3 +183,6 @@ ZZZZZ. Bought my new computer today, though, and I'm psyched. Using my old Pro t
 
 ### R1D60
 So sleepy. Finished up with the CSS hijacking and moved on to DOM traversal - cool stuff. Tomorrow begins AJAX! https://twitter.com/sirnixalot/status/973074102993920000
+
+### R1D61
+Did more DOM stuff but fucked off on Zillow mostly if I'm being 100% honest. Anyhow, tomorrow is AJAX so psyched about that. https://twitter.com/sirnixalot/status/973455532039131137
