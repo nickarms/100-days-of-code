@@ -186,3 +186,6 @@ So sleepy. Finished up with the CSS hijacking and moved on to DOM traversal - co
 
 ### R1D61
 Did more DOM stuff but fucked off on Zillow mostly if I'm being 100% honest. Anyhow, tomorrow is AJAX so psyched about that. https://twitter.com/sirnixalot/status/973455532039131137
+
+### R1D62
+Finished DOM traversal. Tomorrow AJAX for realsies and back to the freecodecamp stuff. It's been so long! https://twitter.com/sirnixalot/status/973802663128260608
