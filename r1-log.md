@@ -191,4 +191,4 @@ Did more DOM stuff but fucked off on Zillow mostly if I'm being 100% honest. Any
 Finished DOM traversal. Tomorrow AJAX for realsies and back to the freecodecamp stuff. It's been so long! https://twitter.com/sirnixalot/status/973802663128260608
 
 ### R1D63
-Started in (finally) on AJAX. Not making sense yet and my alert function is returning 'object' 'object' which is not what I was hoping for/expecting. Hoping this starts coming together soon here... https://twitter.com/sirnixalot/status/974172408453189632
+Started in (finally) on AJAX. Not making sense yet and my alert function is returning 'object' 'object' which is not what I was hoping for/expecting. Hoping this starts coming together soon here. Oh, and this is the first day coding on my new laptop which is sweeeeet! https://twitter.com/sirnixalot/status/974172408453189632
