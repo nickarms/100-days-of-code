@@ -192,3 +192,6 @@ Finished DOM traversal. Tomorrow AJAX for realsies and back to the freecodecamp 
 
 ### R1D63
 Started in (finally) on AJAX. Not making sense yet and my alert function is returning 'object' 'object' which is not what I was hoping for/expecting. Hoping this starts coming together soon here. Oh, and this is the first day coding on my new laptop which is sweeeeet! https://twitter.com/sirnixalot/status/974172408453189632
+
+### R1D64
+More JQuery and AJAX. Finally 'realized' the quote file I'm looking at is JSON and there are neat built-in JQuery tools to parse JSON. Maybe I should be using those instead of the text or XML ones? Ya think??? https://twitter.com/sirnixalot/status/974537354114252801
