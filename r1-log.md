@@ -195,3 +195,6 @@ Started in (finally) on AJAX. Not making sense yet and my alert function is retu
 
 ### R1D64
 More JQuery and AJAX. Finally 'realized' the quote file I'm looking at is JSON and there are neat built-in JQuery tools to parse JSON. Maybe I should be using those instead of the text or XML ones? Ya think??? https://twitter.com/sirnixalot/status/974537354114252801
+
+### R1D65
+Made solid progress on the quote generator with the getJSON method which I didn't know existed before. I would not have been able to make any sense of how to use JQuery to modify different elements on my page without all the tutorial work I did on W3C, though, so this was no wasted effort. Having fun again and can't wait to code tomorrow! https://twitter.com/sirnixalot/status/974893363873792000
