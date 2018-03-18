@@ -198,3 +198,6 @@ More JQuery and AJAX. Finally 'realized' the quote file I'm looking at is JSON a
 
 ### R1D65
 Made solid progress on the quote generator with the getJSON method which I didn't know existed before. I would not have been able to make any sense of how to use JQuery to modify different elements on my page without all the tutorial work I did on W3C, though, so this was no wasted effort. Having fun again and can't wait to code tomorrow! https://twitter.com/sirnixalot/status/974893363873792000
+
+### R1D66
+Crazily long day today with skiing and mom's award thing + dinner. Still managed to make some progress with the quote generator using JQuery $.each loops but still not confident I quite have the hang of it. Will continue chipping away tomorrow. https://twitter.com/sirnixalot/status/975268359032881152
