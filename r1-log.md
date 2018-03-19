@@ -201,3 +201,6 @@ Made solid progress on the quote generator with the getJSON method which I didn'
 
 ### R1D66
 Crazily long day today with skiing and mom's award thing + dinner. Still managed to make some progress with the quote generator using JQuery $.each loops but still not confident I quite have the hang of it. Will continue chipping away tomorrow. https://twitter.com/sirnixalot/status/975268359032881152
+
+### R1D67
+Back to CSS/Bootstrap to pretty up my page. Skills already feel rusty - they faded so fast - I gotta really stay on top of this! https://twitter.com/sirnixalot/status/975613736001007617
