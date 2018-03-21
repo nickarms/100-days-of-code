@@ -204,3 +204,6 @@ Crazily long day today with skiing and mom's award thing + dinner. Still managed
 
 ### R1D67
 Back to CSS/Bootstrap to pretty up my page. Skills already feel rusty - they faded so fast - I gotta really stay on top of this! https://twitter.com/sirnixalot/status/975613736001007617
+
+### R1D68
+Almost done with the quote machine but forgot the requirement to be able to tweet the quote out so need to finish that up tomorrow and then that's it - hoping it doesn't take me the whole hour to knock that out. https://twitter.com/sirnixalot/status/976331048526143488
