@@ -207,3 +207,6 @@ Back to CSS/Bootstrap to pretty up my page. Skills already feel rusty - they fad
 
 ### R1D68
 Almost done with the quote machine but forgot the requirement to be able to tweet the quote out so need to finish that up tomorrow and then that's it - hoping it doesn't take me the whole hour to knock that out. https://twitter.com/sirnixalot/status/976331048526143488
+
+### R1D69
+Still messing around with trying to get the twitter link to play nice with JQuery and only show it conditionally. Trickier than I thought and also got distracted by motorcycles for a little while :) https://twitter.com/sirnixalot/status/976710908331229184
