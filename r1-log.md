@@ -210,3 +210,6 @@ Almost done with the quote machine but forgot the requirement to be able to twee
 
 ### R1D69
 Still messing around with trying to get the twitter link to play nice with JQuery and only show it conditionally. Trickier than I thought and also got distracted by motorcycles for a little while :) https://twitter.com/sirnixalot/status/976710908331229184
+
+### R1D70
+This twitter integration sucks and I am not understanding the fundamentals. Super annoying! But hey, only 30 more days to go - woo hoo! https://twitter.com/sirnixalot/status/977046872572358656
