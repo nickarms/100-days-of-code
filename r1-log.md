@@ -213,3 +213,6 @@ Still messing around with trying to get the twitter link to play nice with JQuer
 
 ### R1D70
 This twitter integration sucks and I am not understanding the fundamentals. Super annoying! But hey, only 30 more days to go - woo hoo! https://twitter.com/sirnixalot/status/977046872572358656
+
+### R1D71
+The twitter button is definitely more work than I budgeted. Ugh. 29 more days. Will I continue after that? https://twitter.com/sirnixalot/status/977430865138499584
