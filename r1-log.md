@@ -219,3 +219,6 @@ The twitter button is definitely more work than I budgeted. Ugh. 29 more days. W
 
 ### R1D72
 Yesterday plumbing until 1am until I gave up and called the plumber. Today I'm finally understanding how to construct this twitter string after looking at a bunch of code. No way I would have arrived here on my own though. And the people said that 'it took them at least an hour to figure this out'? Fuck those people. https://twitter.com/sirnixalot/status/978155904699842563
+
+### R1D73
+Broke my HTML today and feeling super frustrated/discouraged. FUCK! https://twitter.com/sirnixalot/status/978881449351839745
