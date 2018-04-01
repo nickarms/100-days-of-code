@@ -222,3 +222,6 @@ Yesterday plumbing until 1am until I gave up and called the plumber. Today I'm f
 
 ### R1D73
 Broke my HTML today and feeling super frustrated/discouraged. FUCK! https://twitter.com/sirnixalot/status/978881449351839745
+
+### R1D74
+Back on it. Fixed my HTML and decided perfect is the enemy of good (or done) so going to take a new, simpler approach with the twitter button starting tomorrow. https://twitter.com/sirnixalot/status/980333354871672833
