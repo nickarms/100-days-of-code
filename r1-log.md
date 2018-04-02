@@ -225,3 +225,6 @@ Broke my HTML today and feeling super frustrated/discouraged. FUCK! https://twit
 
 ### R1D74
 Back on it. Fixed my HTML and decided perfect is the enemy of good (or done) so going to take a new, simpler approach with the twitter button starting tomorrow. https://twitter.com/sirnixalot/status/980333354871672833
+
+### R1D75
+Man, this sucks. I'm back chunking away at the twitter problem and I'm feeling no further along than when I started like ~2 weeks ago. Feeling embarassed and discouraged and not good enough. https://twitter.com/sirnixalot/status/980706068736036865
