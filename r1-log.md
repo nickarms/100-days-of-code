@@ -228,3 +228,6 @@ Back on it. Fixed my HTML and decided perfect is the enemy of good (or done) so 
 
 ### R1D75
 Man, this sucks. I'm back chunking away at the twitter problem and I'm feeling no further along than when I started like ~2 weeks ago. Feeling embarassed and discouraged and not good enough. https://twitter.com/sirnixalot/status/980706068736036865
+
+### R1D75
+Wow, that was so much easier than I thought. I was missing a FUCKING DOLLAR SIGN. Just when I thought I was starting to get the hang of JQuery, too. Well, I won't make that particular mistake again. Finally finished my quote engine and moving on to the next challenge. https://twitter.com/sirnixalot/status/981053561982263296
