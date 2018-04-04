@@ -231,3 +231,6 @@ Man, this sucks. I'm back chunking away at the twitter problem and I'm feeling n
 
 ### R1D75
 Wow, that was so much easier than I thought. I was missing a FUCKING DOLLAR SIGN. Just when I thought I was starting to get the hang of JQuery, too. Well, I won't make that particular mistake again. Finally finished my quote engine and moving on to the next challenge. https://twitter.com/sirnixalot/status/981053561982263296
+
+### R1D76
+Started in on the weather app, though didn't get much further than checking out the API and what it returns and in what format. Hopefully this go around with JQuery/JSON goes a bit more smoothly than the last one and at least I don't have to tweet anything this time... https://twitter.com/sirnixalot/status/981414308616835072
